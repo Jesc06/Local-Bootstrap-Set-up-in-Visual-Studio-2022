@@ -30,10 +30,10 @@
 <br>
 
 ```html
-<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" asp-append-version="true" />
 
 
-<script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
 ```
 <br>
 <br>
