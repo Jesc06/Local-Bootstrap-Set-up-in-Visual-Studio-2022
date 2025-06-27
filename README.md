@@ -1,4 +1,4 @@
-# 💻Local Offline Bootstrap Setup Guide in Visual Studio 2022           
+# Local Offline Bootstrap Setup Guide in Visual Studio 2022           
 
 ---
 
